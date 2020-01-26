@@ -4,7 +4,7 @@ t = Tk() # how we store and use the callback to tkinter
 t.geometry('500x500') #how we manipulate the size of the GUI window where the button appears
 
 #how we generate a button using tikinter
-#inside the button are settings very simple to css but worded out and obviously used in python and not css
+#inside the button are settings very similar to css but worded out and obviously used in python and not css
 #alot of the settings im playing around with control text color,background color, the color of the button when you press it
 #changing the height and width, having the button close the window once it is clicked, adding a border to my button, changing 
 #the text when the button is being pressed.
